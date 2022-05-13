@@ -1,3 +1,6 @@
+DOMAIN-SUFFIX,gsa.apple.com
+DOMAIN-SUFFIX,gsas.apple.com
+DOMAIN-SUFFIX,testflight.apple.com
 DOMAIN-SUFFIX,metrics.icloud.com
 DOMAIN-SUFFIX,time.apple.com:123
 DOMAIN-SUFFIX,data.flurry.com
