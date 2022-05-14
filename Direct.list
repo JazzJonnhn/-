@@ -1,13 +1,4 @@
 DOMAIN-SUFFIX,data.flurry.com
-DOMAIN-SUFFIX,api.smoot.apple.com
-DOMAIN-SUFFIX,configuration.apple.com
-DOMAIN-SUFFIX,xp.apple.com
-DOMAIN-SUFFIX,smp-device-content.apple.com
-DOMAIN-SUFFIX,guzzoni.apple.com
-DOMAIN-SUFFIX,captive.apple.com
-DOMAIN-SUFFIX,*.ess.apple.com
-DOMAIN-SUFFIX,*.push.apple.com
-DOMAIN-SUFFIX,*.push-apple.com.akadns.net
 DOMAIN-SUFFIX,6dm.cc
 DOMAIN,aidi.tv
 DOMAIN,analytics.strava.com
@@ -19,7 +10,6 @@ DOMAIN,download.jetbrains.com
 DOMAIN,file-igamecj.akamaized.net
 DOMAIN,images-cn.ssl-images-amazon.com
 DOMAIN,ip.istatmenus.app
-DOMAIN,mtalk.google.com
 DOMAIN,officecdn-microsoft-com.akamaized.net
 DOMAIN,origin-a.akamaihd.ne
 DOMAIN,origin-a.akamaihd.net
@@ -216,7 +206,6 @@ DOMAIN-SUFFIX,geilicdn.com
 DOMAIN-SUFFIX,gifshow.com
 DOMAIN-SUFFIX,godic.net
 DOMAIN-SUFFIX,goodread.com
-DOMAIN-SUFFIX,googletraveladservices.com
 DOMAIN-SUFFIX,gtimg.com
 DOMAIN-SUFFIX,haibian.com
 DOMAIN-SUFFIX,hamreus.com
